@@ -1,0 +1,2 @@
+# Project: Railway System 
+This project is a development of a system for modeling railway connections between cities. The system is based on a graph, where cities are vertices and the connections between them are edges. Each connection stores information about the distance and ticket price between two cities. The goal of the project is to create a system that allows adding, modifying, and deleting cities and connections, as well as finding the cheapest routes based on different criteria.
